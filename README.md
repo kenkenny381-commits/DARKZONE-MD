@@ -49,7 +49,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=0000FF&background=FF69B4&center=true&vCenter=true&width=600&lines=⚡+SHENKS+MD+WHATSAPP+BOT;🔥+THE+MOST+ADVANCED+WHATSAPP+AI+BOT;💻+DEVELOPED+BY+ERFAN+AHMAD;🚀+ULTRA+FAST+PERFORMANCE;🌈+SECURE+🔒+STABLE+⚡+PREMIUM" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=0000FF&background=FF69B4&center=true&vCenter=true&width=600&lines=⚡+SHENKS+MD+WHATSAPP+BOT;🔥+THE+MOST+ADVANCED+WHATSAPP+AI+BOT;💻+DEVELOPED+BY+SHENKS KENNY+AHMAD;🚀+ULTRA+FAST+PERFORMANCE;🌈+SECURE+🔒+STABLE+⚡+PREMIUM 254726227630" alt="Typing Animation">
 </h1>
 
 ---
@@ -60,7 +60,7 @@
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-<a href="https://github.com/ERFAN-Md/DARKZONE-MD/fork">
+<a href="https://github.com/SHENKS/DARKZONE-MD/fork">
   <img title="DARKZONE-MD" src="https://img.shields.io/badge/FORK-DARKZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
 </a>
 
