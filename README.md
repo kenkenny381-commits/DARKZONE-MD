@@ -9,7 +9,7 @@
 
 <div align="center">
   <h1 style="background-color:#4B0082; color:white; display:inline-block; padding:20px 40px; border-radius:10px; font-size:48px; font-family:Fira+Code; text-align:center;">
-    DARKZONE-MD WHATSAPP BOT
+    shenks ultra WHATSAPP BOT
   </h1>
 </div>
 
@@ -24,7 +24,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=32&duration=6000&color=00CFFF&background=8B008B&center=true&vCenter=true&width=650&lines=WITH+100%2B+FEATURES" alt="Typing Animation">
 </h1>
 
-> **CURRENT BOT VERSION ➜ `7.0.0 ⚡💯`**
+> **CURRENT BOT VERSION ➜ `16.0.0 ⚡💯`**
 
 ---
 
@@ -180,12 +180,11 @@
 </a>
 
 ### Join Our Community
-<a href="https://chat.whatsapp.com/H27rbX1EFLEJoQPrQD4WiO">
-  <img src="https://img.shields.io/badge/Join_Group-FF69B4?style=for-the-badge&logo=whatsapp" alt="WhatsApp Group"/>
+<a href="https://chat.whatsapp ["](https://chat.whatsapp.com/LIYuZ4g5Ctd9Y1X6vfqGW6)>
+  <img src="https://["](https://whatsapp.com/channel/0029VbDRwJQ35fM1LT2UmH3C) alt="WhatsApp Group"/>
 </a>
 <a href="https://whatsapp.com/channel/0029Vb5dDVO59PwTnL86j13J">
-  <img src="https://img.shields.io/badge/Join_Channel-FF69B4?style=for-the-badge&logo=whatsapp" alt="WhatsApp Channel"/>
-</a>
+  <img src="https://img.shields.io/badge/Join_Channel-FF69B4?style=for-the-badge&logo=whatsapp" alt="WhatsApp Channel"/></a>https://whatsapp.com/channel/0029VbDRwJQ35fM1LT2UmH3C"
 
 </div>
 
