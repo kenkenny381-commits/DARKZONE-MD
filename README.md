@@ -1,12 +1,13 @@
-<!-- Full Enhanced & Color-Boosted README (No Lines Missing , No Violations, Same Structure, Improved Colors, Fixed Deployment Section, Added Contact Not Available) -->
+Dnhanceded Color-Boosted README (No Lines Missing , No Violations, Same Structure, Improved Colors, Fixed Deployment Section, Added Contact Not Available) -->
 
 <div align="cente
     <img src="https://camo.githubusercontent.com/e1e7" alt=="0">
-  </a> img https://files.catbox.moe/qvj2m0.jpg"
+  </a> 
 </div>
 
 
 <div align="center">
+    <img>display.https://files.catbox.moe/qvj2m0.jpg"
   <h1 style="background-color:#4B0082; color:white; display:inline-block; padding:20px 40px; border-radius:10px; font-size:48px; font-family:Fira+Code; text-align:center;">
     SHENKS ULTRA MD WA bot
   </h1>
@@ -79,7 +80,7 @@
 <a href="https://erfan-pair-site.onrender.com" target="_blank">
   <img alt="Pairing Code" src="https://img.shields.io/badge/Get%20Pairing%20Code-FF1493?style=for-the-badge&logo=opencv&logoColor=black">
 </a>
-
+  <zip file>
 
 </div>
 
@@ -96,11 +97,11 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/ERFAN-Md/DARKZONE-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/kenkenny/shenk ultra" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
        <td><a href="https://erfan-vps-site-def3a7aba559.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/VPS-SITE-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=ERFAN-Md/DARKZONE-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=kenkenny/shenks ultra" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -171,7 +172,7 @@
 
 <div align="center">
 
-## 📞 Contact & Support
+## 📞 Contact & Support 254726227630
 
 ### Project Owner: SHENKS KENNY
 <a href='http://254726227630text=*HELLO+SHENKS KENNY+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+DARKZONE-MD+ʀᴇᴘᴏ!!*' target="_blank">
@@ -188,3 +189,4 @@
 
 ---
 
+Dnhanced
