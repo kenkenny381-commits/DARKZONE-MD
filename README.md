@@ -1,8 +1,7 @@
 <!-- Full Enhanced & Color-Boosted README (No Lines Missing , No Violations, Same Structure, Improved Colors, Fixed Deployment Section, Added Contact Not Available) -->
 
-<div align="center">
-  <a>
-    <img src="https://camo.githubusercontent.com/e1e43dbd7ca48f55a44a139eadb3a2da89f529d8dfd2d711cfbaa0781f6c9ea9/68747470733a2f2f66696c65732e636174626f782e6d6f652f6a7164376a782e6a7067" alt="glow" border="0">
+<div align="cente
+    <img src="https://camo.githubusercontent.com/e1e7" alt=="0">
   </a>
 </div>
 
