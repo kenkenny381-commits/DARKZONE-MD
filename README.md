@@ -24,7 +24,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=32&duration=6000&color=00CFFF&background=8B008B&center=true&vCenter=true&width=650&lines=WITH+100%2B+FEATURES" alt="Typing Animation">
 </h1>
 
-> **CURRENT BOT VERSION ➜ `7.0.0 ⚡💯`**
+> **CURRENT BOT VERSION ➜ `15.0.5⚡💯`**
 
 ---
 
@@ -175,7 +175,7 @@
 ## 📞 Contact & Support
 
 ### Project Owner: Erfan Ahmad
-<a href='https://wa.me/+923306137477?text=*HELLO+ERFAN+AHMAD+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+DARKZONE-MD+ʀᴇᴘᴏ!!*' target="_blank">
+<a href='http://254726227630text=*HELLO+ERFAN+AHMAD+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+DARKZONE-MD+ʀᴇᴘᴏ!!*' target="_blank">
   <img alt='WhatsApp' src='https://img.shields.io/badge/Contact_Owner-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 
