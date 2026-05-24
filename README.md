@@ -49,7 +49,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=0000FF&background=FF69B4&center=true&vCenter=true&width=600&lines=⚡+ERFAN+MD+WHATSAPP+BOT;🔥+THE+MOST+ADVANCED+WHATSAPP+AI+BOT;💻+DEVELOPED+BY+ERFAN+AHMAD;🚀+ULTRA+FAST+PERFORMANCE;🌈+SECURE+🔒+STABLE+⚡+PREMIUM" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=0000FF&background=FF69B4&center=true&vCenter=true&width=600&lines=⚡+SHENKS+MD+WHATSAPP+BOT;🔥+THE+MOST+ADVANCED+WHATSAPP+AI+BOT;💻+DEVELOPED+BY+ERFAN+AHMAD;🚀+ULTRA+FAST+PERFORMANCE;🌈+SECURE+🔒+STABLE+⚡+PREMIUM" alt="Typing Animation">
 </h1>
 
 ---
@@ -112,7 +112,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://erfan-vps.vercel.app/" target="_blank">
+      <a href="https://SHENKS.vercel.app/" target="_blank">
         <img alt="FREE-VPS-SITE" src="https://img.shields.io/badge/Deploy%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
       </a>
     </td>
@@ -122,7 +122,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/ERFAN-Md/DARKZONE-MD" target="_blank">
+      <a href="https://github.com/SHENKS/SHENKS ULTRA MD" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/Deploy-On%20Workflow-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
@@ -132,7 +132,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/ERFAN-Md/DARKZONE-MD" target="_blank">
+      <a href="https://github.com/SHENKS/SHENKS ULTRA MD" target="_blank">
         <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
