@@ -3,7 +3,7 @@ const menuPart1 = `
 ┏━━─『 SHENKS ULTRAVIOLET MD 』─━━
 ┃ » Bot Name: SHENKS ULTRAVIOLET MD
 ┃ » Owner: shenks kenny
-┃ » Owner Contact: 254726227639
+┃ » Owner Contact: 254726227630
 ┃ » Prefix: [ . ]
 ┃ » Host: Heroku
 ┃ » Mode: ${mode}
