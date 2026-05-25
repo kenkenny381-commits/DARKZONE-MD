@@ -7,7 +7,7 @@ Dnhanceded Color-Boosted README (No Lines Missing , No Violations, Same Structur
 
 
 <div align="center">
-    <img>display.https://files.catbox.moe/qvj2m0.jpg"
+    <jpg>display.https://files.catbox.moe/qvj2m0.jpg"
   <h1 style="background-color:#4B0082; color:white; display:inline-block; padding:20px 40px; border-radius:10px; font-size:48px; font-family:Fira+Code; text-align:center;">
     SHENKS ULTRA MD WA bot
   </h1>
